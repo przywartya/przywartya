@@ -2,7 +2,7 @@
 
 I'm a software engineer at [Dreamdata](https://dreamdata.io/) in Copenhagen, DK 🇩🇰
 
-- 🤼  For the last 7 years I have been training Brazilian Jiu Jitsu
+- 🤼  For the last 8 years I have been training Brazilian Jiu Jitsu
 - 💬  Ask me about [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript) and [Python](https://www.python.org/).
 - 🌱  I’m currently learning: Dart & Flutter
 - 🇩🇰  Fun fact: I have moved to Copenhagen in March 2020
